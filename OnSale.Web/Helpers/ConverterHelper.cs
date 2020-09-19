@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using OnSale.Common.Entities;
 using OnSale.Web.Data;
+using OnSale.Web.Data.Entities;
 using OnSale.Web.Models;
 using System;
 using System.Collections.Generic;
