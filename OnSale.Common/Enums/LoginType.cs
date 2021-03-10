@@ -4,12 +4,9 @@ using System.Text;
 
 namespace OnSale.Common.Enums
 {
-    public enum OrderStatus
+    public enum LoginType
     {
-        Pending,
-        Spreading,
-        Sent,
-        Confirmed,
-        Cancelled
+        OnSale,
+        Facebook
     }
 }
